@@ -89,8 +89,7 @@ const LoginPage = () => {
           </button>
         </div>
         <p className="forgot-password text-right mt-2">
-          Forgot <a href="#">password?</a>
-          Need an Account?
+          
                   <span className="line">
                     <a href="/ACEUserregister">Sign Up</a>
                   </span>
